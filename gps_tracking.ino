@@ -5,9 +5,9 @@
 
 float latitude , longitude;
 String  lat_str , lng_str;
-const char *ssid =  "Simple";     // Enter your WiFi Name
-const char *pass =  "virgo2001"; // Enter your WiFi Password
-char auth[] = "EFj5FzhKrLkO3fz1pzWYwqriLiYOI3r8"; 
+const char *ssid =  "XXXXXXX";     // Enter your WiFi Name
+const char *pass =  "XXXXXXX"; // Enter your WiFi Password
+char auth[] = "TOKEN"; 
 WidgetMap myMap(V0); 
 
 WiFiClient client;
