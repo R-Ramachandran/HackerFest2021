@@ -20,4 +20,8 @@ Summary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : A platform to - 1) Det
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am building a device, which can immediately detect, that the accident has happened, and it will automatically communicate to a nearby hospital for rescue service, and a nearby police station for intimation of the accident, with the details of location coordinates, vehicle number, etc. Also, notification will be sent to the insurance vendor regarding the accident, along with the vehicle's detail and owner's detail for the insurance claim. Automatically, a unique link will be sent to the owner's registered mobile number through SMS and WhatsApp. In this link, the user can upload the necessary documents like a driving license, FIR copy, bill copies of the car service, and medical expenses for further process of claiming insurance. After verification of submitted documents by the user, the insurance company will credit the amount to the user's bank account.
 </p>
 
+### Timeline
+<hr>
+Identification of vehicle's location is done!
+<br>
 <strong>PPT can be viewed</strong> <a href="https://www.canva.com/design/DAEZpDP6Av8/X36xhKftlrGQbmotR1wDHw/view?utm_content=DAEZpDP6Av8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">here</a>!
