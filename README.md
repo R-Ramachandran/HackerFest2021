@@ -22,7 +22,7 @@ Summary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : A platform to - 1) Det
 
 ### Timeline
 <hr>
-1) Identification of vehicle's location is done! [Task completed on 07-04-2021]
+1) Identification of vehicle's location is done! <strong>[Task completed on 07-04-2021]</strong>
 <br>
 <br>
 <strong>PPT can be viewed</strong> <a href="https://www.canva.com/design/DAEZpDP6Av8/X36xhKftlrGQbmotR1wDHw/view?utm_content=DAEZpDP6Av8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">here</a>!
